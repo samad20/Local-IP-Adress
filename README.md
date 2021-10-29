@@ -3,5 +3,5 @@ Helps to know local IP Address using python
 
 Just copy this command line:
 ```
-curl -s https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py | python -
+curl -s https://raw.githubusercontent.com/samad20/Local-IP-Adress/main/localIPAddress.py | python -
 ```
