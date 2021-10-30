@@ -6,7 +6,7 @@ Helps to know local IP Address using python
 ```
 curl -s https://raw.githubusercontent.com/samad20/Local-IP-Adress/main/localIPAddress.py | python -
 ```
-windows:
+Windows(PowerShell):
 ```
 curl.exe -s https://raw.githubusercontent.com/samad20/Local-IP-Adress/main/localIPAddress.py | python -
 ```
